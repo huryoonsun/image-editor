@@ -1,0 +1,5 @@
+{
+  "name": "이미지 편집",
+  "description": "An interactive web application that uses the Gemini 'NanoBanana 3' model (gemini-3-pro-image-preview) to edit images based on user prompts. Users can upload their own image or select from samples, provide an editing command, and generate a transformed image.",
+  "requestFramePermissions": []
+}
